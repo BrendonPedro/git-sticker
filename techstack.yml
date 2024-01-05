@@ -2,11 +2,11 @@ repo_name: BrendonPedro/git-sticker
 report_id: d773bde49d9cb0567c55972b62105248
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-19T04:29:54+00:00'
+timestamp: '2024-01-05T08:21:15+00:00'
 requested_by: codediodeio
 provider: github
 branch: master
-detected_tools_count: 9
+detected_tools_count: 10
 tools:
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/BrendonPedro/git-sticker
   detection_source: Repo Metadata
 - name: pgvector
   description: Open-source vector similarity search for Postgres
@@ -26,6 +27,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/BrendonPedro/git-sticker/blob/master/ChrisMRogers.txt
   detection_source: ChrisMRogers.txt
   last_updated_by: Chris Rogers
   last_updated_on: 2020-03-17 19:26:48.000000000 Z
@@ -37,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/BrendonPedro/git-sticker
   detection_source: Repo Metadata
 - name: Yarn
   description: A new package manager for JavaScript
@@ -46,6 +49,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/BrendonPedro/git-sticker/blob/master/yarn.lock
   detection_source: yarn.lock
   last_updated_by: Joehoel
   last_updated_on: 2020-03-17 17:13:59.000000000 Z
@@ -57,6 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/BrendonPedro/git-sticker/blob/master/package.json
   detection_source: package.json
   last_updated_by: unknown
   last_updated_on: 2020-03-17 12:03:56.000000000 Z
@@ -68,6 +73,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/BrendonPedro/git-sticker/blob/master/ChrisMRogers.txt
   detection_source: ChrisMRogers.txt
   last_updated_by: Chris Rogers
   last_updated_on: 2020-03-17 19:26:48.000000000 Z
@@ -77,6 +83,21 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/BrendonPedro/git-sticker/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: unknown
+  last_updated_on: 2020-03-17 12:03:56.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/BrendonPedro/git-sticker/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: unknown
   last_updated_on: 2020-03-17 12:03:56.000000000 Z
