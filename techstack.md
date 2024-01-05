@@ -30,7 +30,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [BrendonPedro/git-sticker](https://github.com/BrendonPedro/git-sticker)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|9<br/>Tools used|12/19/23 <br/>Report generated|
+|10<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -111,12 +111,13 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (2)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (3)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (2)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (3)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
+|[chalk](https://www.npmjs.com/chalk)|v3.0.0|03/17/20|unknown |MIT|N/A|
 |[inquirer](https://www.npmjs.com/inquirer)|v6.5.2|03/17/20|unknown |MIT|N/A|
 |[node-rsa](https://www.npmjs.com/node-rsa)|v1.0.7|03/17/20|unknown |MIT|N/A|
 
